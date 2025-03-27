@@ -9,4 +9,5 @@
 ## **4. Sales Analysis and Inventory Planning**
 - **Description**: Analyzed sales data to identify best-selling products, product categories, and potential inventory gaps. Helped plan inventory to meet demands efficiently.
 
-https://github.com/ibrahimali28/DATA-Analysis-for-Dewli_Sales-/commit/74645a4326ffee7dbbcab8b2564eac7fbd7d9b82#r154446660
+## Data Visualization of Marital Status
+   Images/Marital-Status.png
