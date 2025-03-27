@@ -11,5 +11,9 @@
 
 ## Data Visualization of Marital Status
    ![Marital Status Visualization](Images/Marital-Status.png)
+## Product-Category-Base Visualization
+   ![Product-Category-Base Visualization](Images/Product-Category-Base.png)
+
+
   
 
