@@ -14,6 +14,9 @@
 ## Product-Category-Base Visualization
    ![Product-Category-Base Visualization](Images/Product-Category-Base.png)
 
+## for-Occupation-relited-sales-base-Amounts Visualization 
+   ![for-Occupation-relited-sales-base-Amounts Visualization](Images/for-Occupation-relited-sales-base-Amounts.png)
+
 
   
 
