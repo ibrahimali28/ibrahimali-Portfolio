@@ -10,4 +10,5 @@
 - **Description**: Analyzed sales data to identify best-selling products, product categories, and potential inventory gaps. Helped plan inventory to meet demands efficiently.
 
 ## Data Visualization of Marital Status
+  ![]Images/Marital-Status.png
 
